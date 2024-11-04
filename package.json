@@ -1,6 +1,6 @@
 {
   "name": "vite-css-prefixer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Vite plugin for automatically prefixing CSS classes and optionally minifying output CSS with PostCSS.",
   "type": "module",
   "main": "src/index.js",
