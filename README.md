@@ -1,6 +1,9 @@
 # vite-css-prefixer
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-green.svg)](https://opensource.org/licenses/ISC) A Vite plugin for automatically prefixing CSS classes and optionally minifying the output CSS using PostCSS.
+[![License: ISC](https://img.shields.io/badge/License-ISC-green.svg)](https://opensource.org/licenses/ISC)
+[![npm version](https://img.shields.io/npm/v/vite-css-prefixer.svg)](https://www.npmjs.com/package/vite-css-prefixer)
+
+A Vite plugin for automatically prefixing CSS classes and optionally minifying the output CSS using PostCSS.
 
 ## Installation
 
