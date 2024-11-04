@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://https://github.com/maxidevs/vite-css-prefixer.git"
+    "url": "git://github.com/maxidevs/vite-css-prefixer.git"
   },
   "bugs": {
     "url": "https://github.com/maxidevs/vite-css-prefixer/issues"
   },
-  "homepage": "https://https://github.com/maxidevs/vite-css-prefixer#readme"
+  "homepage": "https://github.com/maxidevs/vite-css-prefixer#readme"
 }
