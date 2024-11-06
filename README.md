@@ -81,9 +81,6 @@ These colors are applied via ANSI escape codes for terminals that support them.
 
   Here’s a complete setup example with Vite and React:
   
-
-- Run <code>composer install</code>
-  
 ```javascript
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react-swc'
